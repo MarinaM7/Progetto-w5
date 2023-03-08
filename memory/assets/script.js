@@ -1,22 +1,3 @@
-/*
-
-Le scrivo qui due righe, prof, per spiegarle l'approccio che ho usato per questo esercizio...
-Di primo impatto sono andata nel pallone, mi creava molta confusione il fatto che i file HTML, CSS e JS fossero già in gran parte completati.
-Non riuscivo ad avere chiaro il procedimento da svolgere perchè non riuscivo ad avere un quadro d'insieme.
-Inizialemente ho provato ad agire sul file che ci era stato fornito dalla traccia, ma dopo un'oretta ero punto e a capo.
-Facevo fatica a capire come dovessi collegare le cose le une tra le altre, a capire cosa già c'èra e cosa invece mancava (pur essendoci qualche istruzione all'interno sia del file JS che del CSS).
-
-A quel punto ho deciso di cambiare completamente modo di procedere, per riuscire almeno a produrre qualcosa.
-Mi sono cercata online degli articoli e dei video su come poter procedere nell'implementazione da zero di un memory game.
-Ho trovato un video molto chiaro, che ho cercato di seguire, modificando a mano a mano alcune delle funzioni a mio piacimento, per rendere l'esercizio il piu simile a quello della traccia.
-
-Il file che consegno ora non è completo di tutte le funzionalità, perchè nel tempo che ho avuto sono riuscita ad arrivare solo fino a qui; però sono comunque felice di essere riuscita a realizzarne una parte, capendo ciò che stavo scrivendo.
-
-Attualemente, con le conoscenze e la consapevolezza che ho al giorno d'oggi, mi risulta ancora molto difficile partire da sola a scrivere un JavaScript come quello di questo esercizio, perchè lo considero molto piu complesso ed elaborato rispetto a quello che abbiamo scritto negli esercizi giornalieri pomeridiani.
-Devo probabilmente fare piu esercizio e studiare di più per migliorare e imparare ad agire anche su codice gia scritto (anche perchè in futuro credo che molte volte sarà così).
-
-*/
-
 
 let arrayAnimali = ['🐱', '🦉', '🐾', '🦁', '🦋', '🐛', '🐝', '🐬', '🦊', '🐨', '🐰', '🐯', '🐱', '🦉', '🐾', '🦁', '🦋', '🐛', '🐝', '🐬', '🦊', '🐨', '🐯', '🐰'];
 
